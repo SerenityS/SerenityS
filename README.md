@@ -27,6 +27,7 @@
 <table>
 <tbody>
 <tr><td>
+ 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -68,6 +69,7 @@ YAML                     9 mins              █░░░░░░░░░░�
 
  Last Updated on 29/06/2022 10:29:53 UTC
 <!--END_SECTION:waka-->
+ 
 </td>
 </tr>
 </tbody>
