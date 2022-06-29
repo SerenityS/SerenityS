@@ -1,14 +1,14 @@
 <div align="center">
  
 ### ✨Noob Developer✨
-
+ 
 <a href="https://velog.io/@qwertycvb">
 <img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="mailto:jins4218@gmail.com">
 <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/qwertycvb_/">
 <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<br/><br/>
+<br/>
 
 # 🔥 Activities 🔥 <br/>
 
