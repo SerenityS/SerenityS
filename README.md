@@ -12,9 +12,17 @@
 
 # 🔥 Activities 🔥 <br/>
 
-![SerenityS's github stats](https://github-readme-stats.vercel.app/api?username=SerenityS&show_icons=false&hide_title=true&count_private=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=serenitys&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+<tbody>
+<tr><td>
+<img src="https://github-readme-stats.vercel.app/api?username=SerenityS&show_icons=false&count_private=true&theme=radical"/>
+</td>
+<td>
+<img src="https://github-profile-trophy.vercel.app/?username=serenitys&theme=radical&row=2&column=3"/>
+</td>
+</tr>
+</tbody>
+</table>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
