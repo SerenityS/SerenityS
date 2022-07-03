@@ -29,52 +29,51 @@
 <tr><td>
  
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.24% 
-🌆 Daytime    95 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75% 
-🌃 Evening    154 commits    ████████░░░░░░░░░░░░░░░░░   32.02% 
+🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.24%
+🌆 Daytime    95 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75%
+🌃 Evening    154 commits    ████████░░░░░░░░░░░░░░░░░   32.02%
 🌙 Night      202 commits    ██████████░░░░░░░░░░░░░░░   42.0%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-Tuesday      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-Wednesday    85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
-Thursday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
-Saturday     58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Monday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
+Tuesday      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
+Wednesday    85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67%
+Thursday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76%
+Saturday     58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06%
 Sunday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Seoul
 
-💬 Programming Languages: 
-Dart                     4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   42.89% 
-Markdown                 2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16% 
-Python                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+💬 Programming Languages:
+Dart                     4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   42.89%
+Markdown                 2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16%
+Python                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17%
+YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.6%
 TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  10 hrs 27 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  10 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
-
 <!--END_SECTION:waka-->
- 
+
 </td>
 </tr>
 </tbody>
@@ -107,11 +106,8 @@ Windows                  10 hrs 27 mins      ███████████�
 
 <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
-<img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img alt="pyQt" src ="https://img.shields.io/badge/PyQt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white"/><br/>
-<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
-<img alt="Npm" src ="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 <br/><br/>
 
 ### Databases & Analysis
@@ -119,23 +115,17 @@ Windows                  10 hrs 27 mins      ███████████�
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQl&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
-<img alt="Pandas" src ="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/>
 <br/><br/>
 
 ### DevOps & Tools
 
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-<img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
-<img alt="Bitbucket" src ="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white"/><br/>
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="OracleCloud" src ="https://img.shields.io/badge/OracleCloud-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img alt="GoogleCloud" src ="https://img.shields.io/badge/GCP-4285F4.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white"/><br/>
+<img alt="OracleCloud" src ="https://img.shields.io/badge/OracleCloud-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/><br/>
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 <img alt="Nginx" src ="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white"/><br/>
-<img alt="VSC" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-<img alt="JetBrains" src ="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/><br/>
 <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
-<img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/><br/>
+<img alt="VSC" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/><br/>
 <br/><br/>
 </div>
