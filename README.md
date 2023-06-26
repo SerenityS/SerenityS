@@ -2,7 +2,7 @@
  
 ### ✨Noob Developer✨
  
- <a href="http://portfolio.qwertycvb.com">
+ <a href="https://qwertcvb.notion.site/qwertcvb/HeeRyun-Jin-6c878cd2cd6f408ea3ac5f0ff5730c86">
 <img alt="PortPolio" src ="https://img.shields.io/badge/PortFolio-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@qwertycvb">
 <img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
